@@ -1,0 +1,13 @@
+.title {
+  font: var(--font-heading);
+}
+
+.contentContainer {
+  flex-grow: 1;
+  flex-direction: column;
+  width: 100%;
+}
+
+.outerContainer {
+  margin-top: 3rem;
+}
